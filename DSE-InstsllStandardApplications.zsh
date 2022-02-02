@@ -15,13 +15,13 @@ myList=(InstallAdobeReaderDC \
 		InstallAdobeDNG \
 		InstallBBEdit14 \
 		InstallChrome \
-        SINCDeployAppleGarageBand \
+		SINCDeployAppleGarageBand \
 		InstallExcel \
 		InstallOneNote \
 		InstallPowerPoint \
 		InstallWord \
-        InstallSelfService \
-        InstallSSHLite \
+		InstallSelfService \
+		InstallSSHLite \
 		InstallStellarium \
 		InstallVLC \
 		InstallZoom \
